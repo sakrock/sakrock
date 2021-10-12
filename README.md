@@ -1,6 +1,6 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="http://www.saketshrivastava.tech/">Saket</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakrock/">LinkedIN</a> •
+  <a href="https://www.linkedin.com/in/sakrock/">LinkedIn</a> •
   <a href="https://www.instagram.com/_saket_shrivastava/">Instagram</a> •
   <a href="https://twitter.com/Saktweet007">Twitter</a>
 </p>
