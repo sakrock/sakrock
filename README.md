@@ -9,7 +9,6 @@
 
 **Talking about Personal Stuffs:** 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Python/Django. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: message.saket@gmail.com.
 
